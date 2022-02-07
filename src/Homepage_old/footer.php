@@ -24,7 +24,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>La <a href="https://covidtracker.fr/newsletter">newsletter</a> est réalisée par Thomas Devlaeminck.</p>
+<p>La <a href="https://covidtracker.fr/newsletter">newsletter</a> est réalisée par <a href="https://thomasdevlaeminck.fr/">Thomas Devlaeminck</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
